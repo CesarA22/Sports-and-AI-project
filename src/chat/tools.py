@@ -108,19 +108,32 @@ def get_player_profile(data: AppData, player_key: str) -> dict:
     return out
 
 
+def _resolve_player_row(df: pd.DataFrame, pk_col: str, query: str):
+    """Resolve jogador por player_key ou por nome (coluna player)."""
+    q = str(query).strip()
+    row = df[df[pk_col].astype(str) == q]
+    if row.empty and "player" in df.columns:
+        row = df[df["player"].astype(str).str.strip().str.lower() == q.lower()]
+    if row.empty and "player" in df.columns:
+        row = df[df["player"].astype(str).str.contains(q, case=False, na=False)]
+    return row
+
+
 def compare_players(
     data: AppData,
     player_key_a: str,
     player_key_b: str,
     metric_set: str = "default",
 ) -> dict:
-    """Compara dois jogadores (z-scores, médias do cluster)."""
+    """Compara dois jogadores (z-scores, médias do cluster).
+    Aceita player_key (jogador_50_2024) ou nome exibido (Jogador 50).
+    """
     df = get_merged_df(data)
     pk = _ensure_player_key("player_key", df)
-    metrics = [c for c in METRICS_ALLOWLIST if c in df.columns and "per90" in c or "z_score" in c][:10]
+    metrics = [c for c in METRICS_ALLOWLIST if c in df.columns and ("per90" in c or "z_score" in c)][:10]
 
-    a = df[df[pk].astype(str) == str(player_key_a)]
-    b = df[df[pk].astype(str) == str(player_key_b)]
+    a = _resolve_player_row(df, pk, player_key_a)
+    b = _resolve_player_row(df, pk, player_key_b)
     if a.empty or b.empty:
         return {"error": "Um ou ambos jogadores não encontrados."}
 
@@ -235,15 +248,21 @@ def explain_methodology() -> str:
     return """
 ## Metodologia do Scout Radar
 
-Este projeto analisa jogadores do **Campeonato Brasileiro Série A** (temporadas 2023 e 2024) com foco em **U-23**.
+O projeto utiliza dados do **Brasileirão Série A** (2023–2024).
 
 **Pipeline:**
-1. **Dados agregados por temporada** (master.parquet): identidade, minutos, idade, posição, time.
-2. **Features per90 + padronização** (features.parquet): métricas por 90 minutos e z-scores por position_group.
-3. **UMAP + HDBSCAN** (umap_clusters.parquet): redução dimensional e clusters.
-4. **Scores de outlier** (outliers.parquet): rarity_score, impact_score, prospect_score.
+1. Filtragem de jogadores com idade ≤23
+2. Normalização das métricas por 90 minutos
+3. Padronização por posição (z-scores)
+4. Redução dimensional com UMAP
+5. Clustering com HDBSCAN
+6. Identificação de outliers com Isolation Forest
+7. Prospect score = raridade + impacto
 
-**Escopo:** Apenas jogadores com dados presentes no dataset. Respostas grounded em evidência local.
+**Fontes (dataset):**
+- features.parquet
+- umap_clusters.parquet
+- outliers.parquet
 """
 
 

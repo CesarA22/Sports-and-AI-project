@@ -1,200 +1,200 @@
-{"player_key": "pk_1", "player": "Jogador_1", "team": "Flamengo", "season": 2024, "card": "Jogador_1 (Flamengo, 2024) - ST, 2031 min."}
-{"player_key": "pk_2", "player": "Jogador_2", "team": "Palmeiras", "season": 2023, "card": "Jogador_2 (Palmeiras, 2023) - DM, 1415 min."}
-{"player_key": "pk_3", "player": "Jogador_3", "team": "Corinthians", "season": 2023, "card": "Jogador_3 (Corinthians, 2023) - CM_AM, 1748 min."}
-{"player_key": "pk_4", "player": "Jogador_4", "team": "São Paulo", "season": 2024, "card": "Jogador_4 (São Paulo, 2024) - ST, 915 min."}
-{"player_key": "pk_5", "player": "Jogador_5", "team": "Santos", "season": 2024, "card": "Jogador_5 (Santos, 2024) - FB, 735 min."}
-{"player_key": "pk_6", "player": "Jogador_6", "team": "Fluminense", "season": 2024, "card": "Jogador_6 (Fluminense, 2024) - CM_AM, 2182 min."}
-{"player_key": "pk_7", "player": "Jogador_7", "team": "Botafogo", "season": 2024, "card": "Jogador_7 (Botafogo, 2024) - CM_AM, 896 min."}
-{"player_key": "pk_8", "player": "Jogador_8", "team": "Vasco", "season": 2024, "card": "Jogador_8 (Vasco, 2024) - ST, 1295 min."}
-{"player_key": "pk_9", "player": "Jogador_9", "team": "Athletico", "season": 2024, "card": "Jogador_9 (Athletico, 2024) - CB, 1251 min."}
-{"player_key": "pk_10", "player": "Jogador_10", "team": "Internacional", "season": 2024, "card": "Jogador_10 (Internacional, 2024) - FB, 2087 min."}
-{"player_key": "pk_11", "player": "Jogador_11", "team": "Flamengo", "season": 2024, "card": "Jogador_11 (Flamengo, 2024) - ST, 2331 min."}
-{"player_key": "pk_12", "player": "Jogador_12", "team": "Palmeiras", "season": 2023, "card": "Jogador_12 (Palmeiras, 2023) - FB, 1968 min."}
-{"player_key": "pk_13", "player": "Jogador_13", "team": "Corinthians", "season": 2024, "card": "Jogador_13 (Corinthians, 2024) - FB, 1356 min."}
-{"player_key": "pk_14", "player": "Jogador_14", "team": "São Paulo", "season": 2024, "card": "Jogador_14 (São Paulo, 2024) - CM_AM, 2036 min."}
-{"player_key": "pk_15", "player": "Jogador_15", "team": "Santos", "season": 2023, "card": "Jogador_15 (Santos, 2023) - DM, 1691 min."}
-{"player_key": "pk_16", "player": "Jogador_16", "team": "Fluminense", "season": 2024, "card": "Jogador_16 (Fluminense, 2024) - FB, 1840 min."}
-{"player_key": "pk_17", "player": "Jogador_17", "team": "Botafogo", "season": 2023, "card": "Jogador_17 (Botafogo, 2023) - W, 1591 min."}
-{"player_key": "pk_18", "player": "Jogador_18", "team": "Vasco", "season": 2023, "card": "Jogador_18 (Vasco, 2023) - CM_AM, 1466 min."}
-{"player_key": "pk_19", "player": "Jogador_19", "team": "Athletico", "season": 2024, "card": "Jogador_19 (Athletico, 2024) - CB, 684 min."}
-{"player_key": "pk_20", "player": "Jogador_20", "team": "Internacional", "season": 2023, "card": "Jogador_20 (Internacional, 2023) - DM, 411 min."}
-{"player_key": "pk_21", "player": "Jogador_21", "team": "Flamengo", "season": 2023, "card": "Jogador_21 (Flamengo, 2023) - W, 2030 min."}
-{"player_key": "pk_22", "player": "Jogador_22", "team": "Palmeiras", "season": 2023, "card": "Jogador_22 (Palmeiras, 2023) - W, 1153 min."}
-{"player_key": "pk_23", "player": "Jogador_23", "team": "Corinthians", "season": 2023, "card": "Jogador_23 (Corinthians, 2023) - CB, 2482 min."}
-{"player_key": "pk_24", "player": "Jogador_24", "team": "São Paulo", "season": 2024, "card": "Jogador_24 (São Paulo, 2024) - DM, 489 min."}
-{"player_key": "pk_25", "player": "Jogador_25", "team": "Santos", "season": 2023, "card": "Jogador_25 (Santos, 2023) - CM_AM, 1175 min."}
-{"player_key": "pk_26", "player": "Jogador_26", "team": "Fluminense", "season": 2024, "card": "Jogador_26 (Fluminense, 2024) - GK, 2025 min."}
-{"player_key": "pk_27", "player": "Jogador_27", "team": "Botafogo", "season": 2023, "card": "Jogador_27 (Botafogo, 2023) - DM, 817 min."}
-{"player_key": "pk_28", "player": "Jogador_28", "team": "Vasco", "season": 2023, "card": "Jogador_28 (Vasco, 2023) - CB, 514 min."}
-{"player_key": "pk_29", "player": "Jogador_29", "team": "Athletico", "season": 2023, "card": "Jogador_29 (Athletico, 2023) - W, 1016 min."}
-{"player_key": "pk_30", "player": "Jogador_30", "team": "Internacional", "season": 2023, "card": "Jogador_30 (Internacional, 2023) - CM_AM, 1225 min."}
-{"player_key": "pk_31", "player": "Jogador_31", "team": "Flamengo", "season": 2024, "card": "Jogador_31 (Flamengo, 2024) - DM, 2049 min."}
-{"player_key": "pk_32", "player": "Jogador_32", "team": "Palmeiras", "season": 2024, "card": "Jogador_32 (Palmeiras, 2024) - GK, 1916 min."}
-{"player_key": "pk_33", "player": "Jogador_33", "team": "Corinthians", "season": 2023, "card": "Jogador_33 (Corinthians, 2023) - GK, 812 min."}
-{"player_key": "pk_34", "player": "Jogador_34", "team": "São Paulo", "season": 2023, "card": "Jogador_34 (São Paulo, 2023) - FB, 1128 min."}
-{"player_key": "pk_35", "player": "Jogador_35", "team": "Santos", "season": 2024, "card": "Jogador_35 (Santos, 2024) - FB, 1075 min."}
-{"player_key": "pk_36", "player": "Jogador_36", "team": "Fluminense", "season": 2023, "card": "Jogador_36 (Fluminense, 2023) - ST, 2292 min."}
-{"player_key": "pk_37", "player": "Jogador_37", "team": "Botafogo", "season": 2023, "card": "Jogador_37 (Botafogo, 2023) - CB, 1522 min."}
-{"player_key": "pk_38", "player": "Jogador_38", "team": "Vasco", "season": 2023, "card": "Jogador_38 (Vasco, 2023) - DM, 1971 min."}
-{"player_key": "pk_39", "player": "Jogador_39", "team": "Athletico", "season": 2024, "card": "Jogador_39 (Athletico, 2024) - DM, 1377 min."}
-{"player_key": "pk_40", "player": "Jogador_40", "team": "Internacional", "season": 2024, "card": "Jogador_40 (Internacional, 2024) - ST, 1408 min."}
-{"player_key": "pk_41", "player": "Jogador_41", "team": "Flamengo", "season": 2024, "card": "Jogador_41 (Flamengo, 2024) - W, 2087 min."}
-{"player_key": "pk_42", "player": "Jogador_42", "team": "Palmeiras", "season": 2023, "card": "Jogador_42 (Palmeiras, 2023) - W, 436 min."}
-{"player_key": "pk_43", "player": "Jogador_43", "team": "Corinthians", "season": 2023, "card": "Jogador_43 (Corinthians, 2023) - ST, 1948 min."}
-{"player_key": "pk_44", "player": "Jogador_44", "team": "São Paulo", "season": 2024, "card": "Jogador_44 (São Paulo, 2024) - W, 1272 min."}
-{"player_key": "pk_45", "player": "Jogador_45", "team": "Santos", "season": 2024, "card": "Jogador_45 (Santos, 2024) - FB, 2221 min."}
-{"player_key": "pk_46", "player": "Jogador_46", "team": "Fluminense", "season": 2024, "card": "Jogador_46 (Fluminense, 2024) - DM, 1696 min."}
-{"player_key": "pk_47", "player": "Jogador_47", "team": "Botafogo", "season": 2024, "card": "Jogador_47 (Botafogo, 2024) - ST, 995 min."}
-{"player_key": "pk_48", "player": "Jogador_48", "team": "Vasco", "season": 2023, "card": "Jogador_48 (Vasco, 2023) - DM, 2303 min."}
-{"player_key": "pk_49", "player": "Jogador_49", "team": "Athletico", "season": 2024, "card": "Jogador_49 (Athletico, 2024) - GK, 1128 min."}
-{"player_key": "pk_50", "player": "Jogador_50", "team": "Internacional", "season": 2023, "card": "Jogador_50 (Internacional, 2023) - FB, 1765 min."}
-{"player_key": "pk_51", "player": "Jogador_51", "team": "Flamengo", "season": 2024, "card": "Jogador_51 (Flamengo, 2024) - CM_AM, 796 min."}
-{"player_key": "pk_52", "player": "Jogador_52", "team": "Palmeiras", "season": 2023, "card": "Jogador_52 (Palmeiras, 2023) - FB, 1098 min."}
-{"player_key": "pk_53", "player": "Jogador_53", "team": "Corinthians", "season": 2024, "card": "Jogador_53 (Corinthians, 2024) - ST, 2035 min."}
-{"player_key": "pk_54", "player": "Jogador_54", "team": "São Paulo", "season": 2024, "card": "Jogador_54 (São Paulo, 2024) - CM_AM, 795 min."}
-{"player_key": "pk_55", "player": "Jogador_55", "team": "Santos", "season": 2024, "card": "Jogador_55 (Santos, 2024) - GK, 475 min."}
-{"player_key": "pk_56", "player": "Jogador_56", "team": "Fluminense", "season": 2024, "card": "Jogador_56 (Fluminense, 2024) - ST, 664 min."}
-{"player_key": "pk_57", "player": "Jogador_57", "team": "Botafogo", "season": 2023, "card": "Jogador_57 (Botafogo, 2023) - CB, 2219 min."}
-{"player_key": "pk_58", "player": "Jogador_58", "team": "Vasco", "season": 2024, "card": "Jogador_58 (Vasco, 2024) - DM, 1117 min."}
-{"player_key": "pk_59", "player": "Jogador_59", "team": "Athletico", "season": 2023, "card": "Jogador_59 (Athletico, 2023) - GK, 1250 min."}
-{"player_key": "pk_60", "player": "Jogador_60", "team": "Internacional", "season": 2023, "card": "Jogador_60 (Internacional, 2023) - DM, 1790 min."}
-{"player_key": "pk_61", "player": "Jogador_61", "team": "Flamengo", "season": 2023, "card": "Jogador_61 (Flamengo, 2023) - W, 543 min."}
-{"player_key": "pk_62", "player": "Jogador_62", "team": "Palmeiras", "season": 2023, "card": "Jogador_62 (Palmeiras, 2023) - CB, 1284 min."}
-{"player_key": "pk_63", "player": "Jogador_63", "team": "Corinthians", "season": 2024, "card": "Jogador_63 (Corinthians, 2024) - CB, 795 min."}
-{"player_key": "pk_64", "player": "Jogador_64", "team": "São Paulo", "season": 2023, "card": "Jogador_64 (São Paulo, 2023) - GK, 1892 min."}
-{"player_key": "pk_65", "player": "Jogador_65", "team": "Santos", "season": 2023, "card": "Jogador_65 (Santos, 2023) - CB, 1567 min."}
-{"player_key": "pk_66", "player": "Jogador_66", "team": "Fluminense", "season": 2023, "card": "Jogador_66 (Fluminense, 2023) - CM_AM, 1462 min."}
-{"player_key": "pk_67", "player": "Jogador_67", "team": "Botafogo", "season": 2024, "card": "Jogador_67 (Botafogo, 2024) - CB, 1465 min."}
-{"player_key": "pk_68", "player": "Jogador_68", "team": "Vasco", "season": 2024, "card": "Jogador_68 (Vasco, 2024) - DM, 1609 min."}
-{"player_key": "pk_69", "player": "Jogador_69", "team": "Athletico", "season": 2024, "card": "Jogador_69 (Athletico, 2024) - DM, 1033 min."}
-{"player_key": "pk_70", "player": "Jogador_70", "team": "Internacional", "season": 2024, "card": "Jogador_70 (Internacional, 2024) - ST, 1556 min."}
-{"player_key": "pk_71", "player": "Jogador_71", "team": "Flamengo", "season": 2023, "card": "Jogador_71 (Flamengo, 2023) - DM, 1638 min."}
-{"player_key": "pk_72", "player": "Jogador_72", "team": "Palmeiras", "season": 2023, "card": "Jogador_72 (Palmeiras, 2023) - ST, 1132 min."}
-{"player_key": "pk_73", "player": "Jogador_73", "team": "Corinthians", "season": 2024, "card": "Jogador_73 (Corinthians, 2024) - DM, 634 min."}
-{"player_key": "pk_74", "player": "Jogador_74", "team": "São Paulo", "season": 2023, "card": "Jogador_74 (São Paulo, 2023) - CM_AM, 1150 min."}
-{"player_key": "pk_75", "player": "Jogador_75", "team": "Santos", "season": 2023, "card": "Jogador_75 (Santos, 2023) - ST, 1353 min."}
-{"player_key": "pk_76", "player": "Jogador_76", "team": "Fluminense", "season": 2023, "card": "Jogador_76 (Fluminense, 2023) - FB, 1942 min."}
-{"player_key": "pk_77", "player": "Jogador_77", "team": "Botafogo", "season": 2024, "card": "Jogador_77 (Botafogo, 2024) - W, 1597 min."}
-{"player_key": "pk_78", "player": "Jogador_78", "team": "Vasco", "season": 2024, "card": "Jogador_78 (Vasco, 2024) - GK, 2076 min."}
-{"player_key": "pk_79", "player": "Jogador_79", "team": "Athletico", "season": 2023, "card": "Jogador_79 (Athletico, 2023) - DM, 1591 min."}
-{"player_key": "pk_80", "player": "Jogador_80", "team": "Internacional", "season": 2024, "card": "Jogador_80 (Internacional, 2024) - CB, 1816 min."}
-{"player_key": "pk_81", "player": "Jogador_81", "team": "Flamengo", "season": 2024, "card": "Jogador_81 (Flamengo, 2024) - DM, 1617 min."}
-{"player_key": "pk_82", "player": "Jogador_82", "team": "Palmeiras", "season": 2024, "card": "Jogador_82 (Palmeiras, 2024) - CB, 1940 min."}
-{"player_key": "pk_83", "player": "Jogador_83", "team": "Corinthians", "season": 2024, "card": "Jogador_83 (Corinthians, 2024) - W, 2476 min."}
-{"player_key": "pk_84", "player": "Jogador_84", "team": "São Paulo", "season": 2024, "card": "Jogador_84 (São Paulo, 2024) - W, 1845 min."}
-{"player_key": "pk_85", "player": "Jogador_85", "team": "Santos", "season": 2023, "card": "Jogador_85 (Santos, 2023) - W, 1919 min."}
-{"player_key": "pk_86", "player": "Jogador_86", "team": "Fluminense", "season": 2024, "card": "Jogador_86 (Fluminense, 2024) - CB, 1788 min."}
-{"player_key": "pk_87", "player": "Jogador_87", "team": "Botafogo", "season": 2023, "card": "Jogador_87 (Botafogo, 2023) - DM, 2256 min."}
-{"player_key": "pk_88", "player": "Jogador_88", "team": "Vasco", "season": 2023, "card": "Jogador_88 (Vasco, 2023) - W, 1765 min."}
-{"player_key": "pk_89", "player": "Jogador_89", "team": "Athletico", "season": 2024, "card": "Jogador_89 (Athletico, 2024) - CM_AM, 899 min."}
-{"player_key": "pk_90", "player": "Jogador_90", "team": "Internacional", "season": 2023, "card": "Jogador_90 (Internacional, 2023) - ST, 2080 min."}
-{"player_key": "pk_91", "player": "Jogador_91", "team": "Flamengo", "season": 2023, "card": "Jogador_91 (Flamengo, 2023) - CB, 910 min."}
-{"player_key": "pk_92", "player": "Jogador_92", "team": "Palmeiras", "season": 2023, "card": "Jogador_92 (Palmeiras, 2023) - CB, 616 min."}
-{"player_key": "pk_93", "player": "Jogador_93", "team": "Corinthians", "season": 2024, "card": "Jogador_93 (Corinthians, 2024) - DM, 1724 min."}
-{"player_key": "pk_94", "player": "Jogador_94", "team": "São Paulo", "season": 2024, "card": "Jogador_94 (São Paulo, 2024) - CB, 1555 min."}
-{"player_key": "pk_95", "player": "Jogador_95", "team": "Santos", "season": 2023, "card": "Jogador_95 (Santos, 2023) - CB, 2227 min."}
-{"player_key": "pk_96", "player": "Jogador_96", "team": "Fluminense", "season": 2024, "card": "Jogador_96 (Fluminense, 2024) - W, 2210 min."}
-{"player_key": "pk_97", "player": "Jogador_97", "team": "Botafogo", "season": 2024, "card": "Jogador_97 (Botafogo, 2024) - DM, 1605 min."}
-{"player_key": "pk_98", "player": "Jogador_98", "team": "Vasco", "season": 2024, "card": "Jogador_98 (Vasco, 2024) - W, 490 min."}
-{"player_key": "pk_99", "player": "Jogador_99", "team": "Athletico", "season": 2024, "card": "Jogador_99 (Athletico, 2024) - ST, 1113 min."}
-{"player_key": "pk_100", "player": "Jogador_100", "team": "Internacional", "season": 2023, "card": "Jogador_100 (Internacional, 2023) - ST, 2281 min."}
-{"player_key": "pk_101", "player": "Jogador_101", "team": "Flamengo", "season": 2023, "card": "Jogador_101 (Flamengo, 2023) - W, 438 min."}
-{"player_key": "pk_102", "player": "Jogador_102", "team": "Palmeiras", "season": 2024, "card": "Jogador_102 (Palmeiras, 2024) - ST, 572 min."}
-{"player_key": "pk_103", "player": "Jogador_103", "team": "Corinthians", "season": 2024, "card": "Jogador_103 (Corinthians, 2024) - DM, 1052 min."}
-{"player_key": "pk_104", "player": "Jogador_104", "team": "São Paulo", "season": 2023, "card": "Jogador_104 (São Paulo, 2023) - GK, 1153 min."}
-{"player_key": "pk_105", "player": "Jogador_105", "team": "Santos", "season": 2023, "card": "Jogador_105 (Santos, 2023) - W, 1643 min."}
-{"player_key": "pk_106", "player": "Jogador_106", "team": "Fluminense", "season": 2024, "card": "Jogador_106 (Fluminense, 2024) - CM_AM, 1481 min."}
-{"player_key": "pk_107", "player": "Jogador_107", "team": "Botafogo", "season": 2023, "card": "Jogador_107 (Botafogo, 2023) - CM_AM, 2083 min."}
-{"player_key": "pk_108", "player": "Jogador_108", "team": "Vasco", "season": 2024, "card": "Jogador_108 (Vasco, 2024) - CB, 855 min."}
-{"player_key": "pk_109", "player": "Jogador_109", "team": "Athletico", "season": 2024, "card": "Jogador_109 (Athletico, 2024) - ST, 1228 min."}
-{"player_key": "pk_110", "player": "Jogador_110", "team": "Internacional", "season": 2023, "card": "Jogador_110 (Internacional, 2023) - CM_AM, 1294 min."}
-{"player_key": "pk_111", "player": "Jogador_111", "team": "Flamengo", "season": 2023, "card": "Jogador_111 (Flamengo, 2023) - CB, 1784 min."}
-{"player_key": "pk_112", "player": "Jogador_112", "team": "Palmeiras", "season": 2024, "card": "Jogador_112 (Palmeiras, 2024) - GK, 2358 min."}
-{"player_key": "pk_113", "player": "Jogador_113", "team": "Corinthians", "season": 2024, "card": "Jogador_113 (Corinthians, 2024) - DM, 2396 min."}
-{"player_key": "pk_114", "player": "Jogador_114", "team": "São Paulo", "season": 2023, "card": "Jogador_114 (São Paulo, 2023) - DM, 589 min."}
-{"player_key": "pk_115", "player": "Jogador_115", "team": "Santos", "season": 2024, "card": "Jogador_115 (Santos, 2024) - DM, 904 min."}
-{"player_key": "pk_116", "player": "Jogador_116", "team": "Fluminense", "season": 2023, "card": "Jogador_116 (Fluminense, 2023) - CM_AM, 1614 min."}
-{"player_key": "pk_117", "player": "Jogador_117", "team": "Botafogo", "season": 2024, "card": "Jogador_117 (Botafogo, 2024) - GK, 1931 min."}
-{"player_key": "pk_118", "player": "Jogador_118", "team": "Vasco", "season": 2023, "card": "Jogador_118 (Vasco, 2023) - CM_AM, 1223 min."}
-{"player_key": "pk_119", "player": "Jogador_119", "team": "Athletico", "season": 2023, "card": "Jogador_119 (Athletico, 2023) - ST, 1328 min."}
-{"player_key": "pk_120", "player": "Jogador_120", "team": "Internacional", "season": 2023, "card": "Jogador_120 (Internacional, 2023) - CM_AM, 1333 min."}
-{"player_key": "pk_121", "player": "Jogador_121", "team": "Flamengo", "season": 2024, "card": "Jogador_121 (Flamengo, 2024) - GK, 1540 min."}
-{"player_key": "pk_122", "player": "Jogador_122", "team": "Palmeiras", "season": 2024, "card": "Jogador_122 (Palmeiras, 2024) - GK, 533 min."}
-{"player_key": "pk_123", "player": "Jogador_123", "team": "Corinthians", "season": 2023, "card": "Jogador_123 (Corinthians, 2023) - ST, 1084 min."}
-{"player_key": "pk_124", "player": "Jogador_124", "team": "São Paulo", "season": 2024, "card": "Jogador_124 (São Paulo, 2024) - GK, 2252 min."}
-{"player_key": "pk_125", "player": "Jogador_125", "team": "Santos", "season": 2023, "card": "Jogador_125 (Santos, 2023) - GK, 1214 min."}
-{"player_key": "pk_126", "player": "Jogador_126", "team": "Fluminense", "season": 2023, "card": "Jogador_126 (Fluminense, 2023) - DM, 1572 min."}
-{"player_key": "pk_127", "player": "Jogador_127", "team": "Botafogo", "season": 2024, "card": "Jogador_127 (Botafogo, 2024) - ST, 479 min."}
-{"player_key": "pk_128", "player": "Jogador_128", "team": "Vasco", "season": 2024, "card": "Jogador_128 (Vasco, 2024) - FB, 602 min."}
-{"player_key": "pk_129", "player": "Jogador_129", "team": "Athletico", "season": 2023, "card": "Jogador_129 (Athletico, 2023) - FB, 1652 min."}
-{"player_key": "pk_130", "player": "Jogador_130", "team": "Internacional", "season": 2024, "card": "Jogador_130 (Internacional, 2024) - GK, 2099 min."}
-{"player_key": "pk_131", "player": "Jogador_131", "team": "Flamengo", "season": 2024, "card": "Jogador_131 (Flamengo, 2024) - FB, 1650 min."}
-{"player_key": "pk_132", "player": "Jogador_132", "team": "Palmeiras", "season": 2023, "card": "Jogador_132 (Palmeiras, 2023) - FB, 2082 min."}
-{"player_key": "pk_133", "player": "Jogador_133", "team": "Corinthians", "season": 2023, "card": "Jogador_133 (Corinthians, 2023) - GK, 1955 min."}
-{"player_key": "pk_134", "player": "Jogador_134", "team": "São Paulo", "season": 2024, "card": "Jogador_134 (São Paulo, 2024) - FB, 2494 min."}
-{"player_key": "pk_135", "player": "Jogador_135", "team": "Santos", "season": 2023, "card": "Jogador_135 (Santos, 2023) - CM_AM, 1656 min."}
-{"player_key": "pk_136", "player": "Jogador_136", "team": "Fluminense", "season": 2023, "card": "Jogador_136 (Fluminense, 2023) - CB, 1949 min."}
-{"player_key": "pk_137", "player": "Jogador_137", "team": "Botafogo", "season": 2024, "card": "Jogador_137 (Botafogo, 2024) - ST, 1566 min."}
-{"player_key": "pk_138", "player": "Jogador_138", "team": "Vasco", "season": 2023, "card": "Jogador_138 (Vasco, 2023) - CB, 1796 min."}
-{"player_key": "pk_139", "player": "Jogador_139", "team": "Athletico", "season": 2023, "card": "Jogador_139 (Athletico, 2023) - GK, 870 min."}
-{"player_key": "pk_140", "player": "Jogador_140", "team": "Internacional", "season": 2024, "card": "Jogador_140 (Internacional, 2024) - DM, 1435 min."}
-{"player_key": "pk_141", "player": "Jogador_141", "team": "Flamengo", "season": 2024, "card": "Jogador_141 (Flamengo, 2024) - ST, 1753 min."}
-{"player_key": "pk_142", "player": "Jogador_142", "team": "Palmeiras", "season": 2023, "card": "Jogador_142 (Palmeiras, 2023) - GK, 1367 min."}
-{"player_key": "pk_143", "player": "Jogador_143", "team": "Corinthians", "season": 2023, "card": "Jogador_143 (Corinthians, 2023) - DM, 757 min."}
-{"player_key": "pk_144", "player": "Jogador_144", "team": "São Paulo", "season": 2024, "card": "Jogador_144 (São Paulo, 2024) - CB, 1067 min."}
-{"player_key": "pk_145", "player": "Jogador_145", "team": "Santos", "season": 2024, "card": "Jogador_145 (Santos, 2024) - GK, 772 min."}
-{"player_key": "pk_146", "player": "Jogador_146", "team": "Fluminense", "season": 2024, "card": "Jogador_146 (Fluminense, 2024) - ST, 1431 min."}
-{"player_key": "pk_147", "player": "Jogador_147", "team": "Botafogo", "season": 2024, "card": "Jogador_147 (Botafogo, 2024) - ST, 1545 min."}
-{"player_key": "pk_148", "player": "Jogador_148", "team": "Vasco", "season": 2023, "card": "Jogador_148 (Vasco, 2023) - W, 1771 min."}
-{"player_key": "pk_149", "player": "Jogador_149", "team": "Athletico", "season": 2024, "card": "Jogador_149 (Athletico, 2024) - CM_AM, 489 min."}
-{"player_key": "pk_150", "player": "Jogador_150", "team": "Internacional", "season": 2024, "card": "Jogador_150 (Internacional, 2024) - FB, 939 min."}
-{"player_key": "pk_151", "player": "Jogador_151", "team": "Flamengo", "season": 2023, "card": "Jogador_151 (Flamengo, 2023) - DM, 1268 min."}
-{"player_key": "pk_152", "player": "Jogador_152", "team": "Palmeiras", "season": 2024, "card": "Jogador_152 (Palmeiras, 2024) - W, 440 min."}
-{"player_key": "pk_153", "player": "Jogador_153", "team": "Corinthians", "season": 2023, "card": "Jogador_153 (Corinthians, 2023) - FB, 1139 min."}
-{"player_key": "pk_154", "player": "Jogador_154", "team": "São Paulo", "season": 2024, "card": "Jogador_154 (São Paulo, 2024) - FB, 2346 min."}
-{"player_key": "pk_155", "player": "Jogador_155", "team": "Santos", "season": 2024, "card": "Jogador_155 (Santos, 2024) - GK, 1624 min."}
-{"player_key": "pk_156", "player": "Jogador_156", "team": "Fluminense", "season": 2024, "card": "Jogador_156 (Fluminense, 2024) - FB, 1328 min."}
-{"player_key": "pk_157", "player": "Jogador_157", "team": "Botafogo", "season": 2023, "card": "Jogador_157 (Botafogo, 2023) - CM_AM, 2436 min."}
-{"player_key": "pk_158", "player": "Jogador_158", "team": "Vasco", "season": 2023, "card": "Jogador_158 (Vasco, 2023) - ST, 1324 min."}
-{"player_key": "pk_159", "player": "Jogador_159", "team": "Athletico", "season": 2024, "card": "Jogador_159 (Athletico, 2024) - W, 1981 min."}
-{"player_key": "pk_160", "player": "Jogador_160", "team": "Internacional", "season": 2023, "card": "Jogador_160 (Internacional, 2023) - FB, 789 min."}
-{"player_key": "pk_161", "player": "Jogador_161", "team": "Flamengo", "season": 2023, "card": "Jogador_161 (Flamengo, 2023) - GK, 2017 min."}
-{"player_key": "pk_162", "player": "Jogador_162", "team": "Palmeiras", "season": 2023, "card": "Jogador_162 (Palmeiras, 2023) - CM_AM, 655 min."}
-{"player_key": "pk_163", "player": "Jogador_163", "team": "Corinthians", "season": 2023, "card": "Jogador_163 (Corinthians, 2023) - CB, 1108 min."}
-{"player_key": "pk_164", "player": "Jogador_164", "team": "São Paulo", "season": 2023, "card": "Jogador_164 (São Paulo, 2023) - ST, 2238 min."}
-{"player_key": "pk_165", "player": "Jogador_165", "team": "Santos", "season": 2023, "card": "Jogador_165 (Santos, 2023) - ST, 2344 min."}
-{"player_key": "pk_166", "player": "Jogador_166", "team": "Fluminense", "season": 2024, "card": "Jogador_166 (Fluminense, 2024) - W, 409 min."}
-{"player_key": "pk_167", "player": "Jogador_167", "team": "Botafogo", "season": 2024, "card": "Jogador_167 (Botafogo, 2024) - ST, 1197 min."}
-{"player_key": "pk_168", "player": "Jogador_168", "team": "Vasco", "season": 2023, "card": "Jogador_168 (Vasco, 2023) - FB, 1276 min."}
-{"player_key": "pk_169", "player": "Jogador_169", "team": "Athletico", "season": 2024, "card": "Jogador_169 (Athletico, 2024) - GK, 1428 min."}
-{"player_key": "pk_170", "player": "Jogador_170", "team": "Internacional", "season": 2024, "card": "Jogador_170 (Internacional, 2024) - ST, 1415 min."}
-{"player_key": "pk_171", "player": "Jogador_171", "team": "Flamengo", "season": 2024, "card": "Jogador_171 (Flamengo, 2024) - ST, 2224 min."}
-{"player_key": "pk_172", "player": "Jogador_172", "team": "Palmeiras", "season": 2024, "card": "Jogador_172 (Palmeiras, 2024) - CB, 773 min."}
-{"player_key": "pk_173", "player": "Jogador_173", "team": "Corinthians", "season": 2023, "card": "Jogador_173 (Corinthians, 2023) - CB, 623 min."}
-{"player_key": "pk_174", "player": "Jogador_174", "team": "São Paulo", "season": 2024, "card": "Jogador_174 (São Paulo, 2024) - DM, 1662 min."}
-{"player_key": "pk_175", "player": "Jogador_175", "team": "Santos", "season": 2024, "card": "Jogador_175 (Santos, 2024) - CM_AM, 2202 min."}
-{"player_key": "pk_176", "player": "Jogador_176", "team": "Fluminense", "season": 2023, "card": "Jogador_176 (Fluminense, 2023) - FB, 1252 min."}
-{"player_key": "pk_177", "player": "Jogador_177", "team": "Botafogo", "season": 2023, "card": "Jogador_177 (Botafogo, 2023) - ST, 462 min."}
-{"player_key": "pk_178", "player": "Jogador_178", "team": "Vasco", "season": 2024, "card": "Jogador_178 (Vasco, 2024) - ST, 1640 min."}
-{"player_key": "pk_179", "player": "Jogador_179", "team": "Athletico", "season": 2024, "card": "Jogador_179 (Athletico, 2024) - GK, 1088 min."}
-{"player_key": "pk_180", "player": "Jogador_180", "team": "Internacional", "season": 2024, "card": "Jogador_180 (Internacional, 2024) - DM, 1884 min."}
-{"player_key": "pk_181", "player": "Jogador_181", "team": "Flamengo", "season": 2024, "card": "Jogador_181 (Flamengo, 2024) - CM_AM, 2033 min."}
-{"player_key": "pk_182", "player": "Jogador_182", "team": "Palmeiras", "season": 2024, "card": "Jogador_182 (Palmeiras, 2024) - DM, 910 min."}
-{"player_key": "pk_183", "player": "Jogador_183", "team": "Corinthians", "season": 2024, "card": "Jogador_183 (Corinthians, 2024) - W, 784 min."}
-{"player_key": "pk_184", "player": "Jogador_184", "team": "São Paulo", "season": 2023, "card": "Jogador_184 (São Paulo, 2023) - CM_AM, 804 min."}
-{"player_key": "pk_185", "player": "Jogador_185", "team": "Santos", "season": 2024, "card": "Jogador_185 (Santos, 2024) - ST, 917 min."}
-{"player_key": "pk_186", "player": "Jogador_186", "team": "Fluminense", "season": 2024, "card": "Jogador_186 (Fluminense, 2024) - ST, 875 min."}
-{"player_key": "pk_187", "player": "Jogador_187", "team": "Botafogo", "season": 2023, "card": "Jogador_187 (Botafogo, 2023) - CM_AM, 2400 min."}
-{"player_key": "pk_188", "player": "Jogador_188", "team": "Vasco", "season": 2023, "card": "Jogador_188 (Vasco, 2023) - ST, 2068 min."}
-{"player_key": "pk_189", "player": "Jogador_189", "team": "Athletico", "season": 2023, "card": "Jogador_189 (Athletico, 2023) - FB, 2293 min."}
-{"player_key": "pk_190", "player": "Jogador_190", "team": "Internacional", "season": 2023, "card": "Jogador_190 (Internacional, 2023) - CM_AM, 1860 min."}
-{"player_key": "pk_191", "player": "Jogador_191", "team": "Flamengo", "season": 2024, "card": "Jogador_191 (Flamengo, 2024) - DM, 1113 min."}
-{"player_key": "pk_192", "player": "Jogador_192", "team": "Palmeiras", "season": 2024, "card": "Jogador_192 (Palmeiras, 2024) - CM_AM, 482 min."}
-{"player_key": "pk_193", "player": "Jogador_193", "team": "Corinthians", "season": 2024, "card": "Jogador_193 (Corinthians, 2024) - ST, 1568 min."}
-{"player_key": "pk_194", "player": "Jogador_194", "team": "São Paulo", "season": 2024, "card": "Jogador_194 (São Paulo, 2024) - FB, 2301 min."}
-{"player_key": "pk_195", "player": "Jogador_195", "team": "Santos", "season": 2024, "card": "Jogador_195 (Santos, 2024) - FB, 2448 min."}
-{"player_key": "pk_196", "player": "Jogador_196", "team": "Fluminense", "season": 2024, "card": "Jogador_196 (Fluminense, 2024) - W, 450 min."}
-{"player_key": "pk_197", "player": "Jogador_197", "team": "Botafogo", "season": 2023, "card": "Jogador_197 (Botafogo, 2023) - DM, 1084 min."}
-{"player_key": "pk_198", "player": "Jogador_198", "team": "Vasco", "season": 2024, "card": "Jogador_198 (Vasco, 2024) - CB, 1116 min."}
-{"player_key": "pk_199", "player": "Jogador_199", "team": "Athletico", "season": 2023, "card": "Jogador_199 (Athletico, 2023) - CB, 1869 min."}
-{"player_key": "pk_200", "player": "Jogador_200", "team": "Internacional", "season": 2023, "card": "Jogador_200 (Internacional, 2023) - CM_AM, 848 min."}
+{"player_key": "jogador_1_2023", "player": "Jogador 1", "team": "Time A", "season": 2023, "card": "Jogador 1 (Time A, 2023) - ST, 1295 min."}
+{"player_key": "jogador_2_2024", "player": "Jogador 2", "team": "Time B", "season": 2024, "card": "Jogador 2 (Time B, 2024) - ST, 1251 min."}
+{"player_key": "jogador_3_2023", "player": "Jogador 3", "team": "Time C", "season": 2023, "card": "Jogador 3 (Time C, 2023) - GK, 2087 min."}
+{"player_key": "jogador_4_2023", "player": "Jogador 4", "team": "Time D", "season": 2023, "card": "Jogador 4 (Time D, 2023) - DM, 2331 min."}
+{"player_key": "jogador_5_2023", "player": "Jogador 5", "team": "Time E", "season": 2023, "card": "Jogador 5 (Time E, 2023) - CM_AM, 1968 min."}
+{"player_key": "jogador_6_2024", "player": "Jogador 6", "team": "Time F", "season": 2024, "card": "Jogador 6 (Time F, 2024) - DM, 1356 min."}
+{"player_key": "jogador_7_2023", "player": "Jogador 7", "team": "Time G", "season": 2023, "card": "Jogador 7 (Time G, 2023) - W, 2036 min."}
+{"player_key": "jogador_8_2023", "player": "Jogador 8", "team": "Time H", "season": 2023, "card": "Jogador 8 (Time H, 2023) - CM_AM, 1691 min."}
+{"player_key": "jogador_9_2023", "player": "Jogador 9", "team": "Time I", "season": 2023, "card": "Jogador 9 (Time I, 2023) - ST, 1840 min."}
+{"player_key": "jogador_10_2024", "player": "Jogador 10", "team": "Time J", "season": 2024, "card": "Jogador 10 (Time J, 2024) - ST, 1591 min."}
+{"player_key": "jogador_11_2023", "player": "Jogador 11", "team": "Time A", "season": 2023, "card": "Jogador 11 (Time A, 2023) - CM_AM, 1466 min."}
+{"player_key": "jogador_12_2023", "player": "Jogador 12", "team": "Time B", "season": 2023, "card": "Jogador 12 (Time B, 2023) - ST, 684 min."}
+{"player_key": "jogador_13_2023", "player": "Jogador 13", "team": "Time C", "season": 2023, "card": "Jogador 13 (Time C, 2023) - FB, 411 min."}
+{"player_key": "jogador_14_2023", "player": "Jogador 14", "team": "Time D", "season": 2023, "card": "Jogador 14 (Time D, 2023) - CM_AM, 2030 min."}
+{"player_key": "jogador_15_2024", "player": "Jogador 15", "team": "Time E", "season": 2024, "card": "Jogador 15 (Time E, 2024) - DM, 1153 min."}
+{"player_key": "jogador_16_2023", "player": "Jogador 16", "team": "Time F", "season": 2023, "card": "Jogador 16 (Time F, 2023) - CM_AM, 2482 min."}
+{"player_key": "jogador_17_2024", "player": "Jogador 17", "team": "Time G", "season": 2024, "card": "Jogador 17 (Time G, 2024) - ST, 489 min."}
+{"player_key": "jogador_18_2024", "player": "Jogador 18", "team": "Time H", "season": 2024, "card": "Jogador 18 (Time H, 2024) - FB, 1175 min."}
+{"player_key": "jogador_19_2024", "player": "Jogador 19", "team": "Time I", "season": 2024, "card": "Jogador 19 (Time I, 2024) - FB, 2025 min."}
+{"player_key": "jogador_20_2023", "player": "Jogador 20", "team": "Time J", "season": 2023, "card": "Jogador 20 (Time J, 2023) - W, 817 min."}
+{"player_key": "jogador_21_2024", "player": "Jogador 21", "team": "Time A", "season": 2024, "card": "Jogador 21 (Time A, 2024) - DM, 514 min."}
+{"player_key": "jogador_22_2023", "player": "Jogador 22", "team": "Time B", "season": 2023, "card": "Jogador 22 (Time B, 2023) - CB, 1016 min."}
+{"player_key": "jogador_23_2024", "player": "Jogador 23", "team": "Time C", "season": 2024, "card": "Jogador 23 (Time C, 2024) - CB, 1225 min."}
+{"player_key": "jogador_24_2024", "player": "Jogador 24", "team": "Time D", "season": 2024, "card": "Jogador 24 (Time D, 2024) - CM_AM, 2049 min."}
+{"player_key": "jogador_25_2024", "player": "Jogador 25", "team": "Time E", "season": 2024, "card": "Jogador 25 (Time E, 2024) - W, 1916 min."}
+{"player_key": "jogador_26_2024", "player": "Jogador 26", "team": "Time F", "season": 2024, "card": "Jogador 26 (Time F, 2024) - GK, 812 min."}
+{"player_key": "jogador_27_2024", "player": "Jogador 27", "team": "Time G", "season": 2024, "card": "Jogador 27 (Time G, 2024) - CM_AM, 1128 min."}
+{"player_key": "jogador_28_2024", "player": "Jogador 28", "team": "Time H", "season": 2024, "card": "Jogador 28 (Time H, 2024) - W, 1075 min."}
+{"player_key": "jogador_29_2024", "player": "Jogador 29", "team": "Time I", "season": 2024, "card": "Jogador 29 (Time I, 2024) - DM, 2292 min."}
+{"player_key": "jogador_30_2024", "player": "Jogador 30", "team": "Time J", "season": 2024, "card": "Jogador 30 (Time J, 2024) - DM, 1522 min."}
+{"player_key": "jogador_31_2023", "player": "Jogador 31", "team": "Time A", "season": 2023, "card": "Jogador 31 (Time A, 2023) - DM, 1971 min."}
+{"player_key": "jogador_32_2023", "player": "Jogador 32", "team": "Time B", "season": 2023, "card": "Jogador 32 (Time B, 2023) - DM, 1377 min."}
+{"player_key": "jogador_33_2024", "player": "Jogador 33", "team": "Time C", "season": 2024, "card": "Jogador 33 (Time C, 2024) - DM, 1408 min."}
+{"player_key": "jogador_34_2024", "player": "Jogador 34", "team": "Time D", "season": 2024, "card": "Jogador 34 (Time D, 2024) - W, 2087 min."}
+{"player_key": "jogador_35_2024", "player": "Jogador 35", "team": "Time E", "season": 2024, "card": "Jogador 35 (Time E, 2024) - W, 436 min."}
+{"player_key": "jogador_36_2023", "player": "Jogador 36", "team": "Time F", "season": 2023, "card": "Jogador 36 (Time F, 2023) - FB, 1948 min."}
+{"player_key": "jogador_37_2024", "player": "Jogador 37", "team": "Time G", "season": 2024, "card": "Jogador 37 (Time G, 2024) - CB, 1272 min."}
+{"player_key": "jogador_38_2023", "player": "Jogador 38", "team": "Time H", "season": 2023, "card": "Jogador 38 (Time H, 2023) - ST, 2221 min."}
+{"player_key": "jogador_39_2023", "player": "Jogador 39", "team": "Time I", "season": 2023, "card": "Jogador 39 (Time I, 2023) - DM, 1696 min."}
+{"player_key": "jogador_40_2023", "player": "Jogador 40", "team": "Time J", "season": 2023, "card": "Jogador 40 (Time J, 2023) - GK, 995 min."}
+{"player_key": "jogador_41_2023", "player": "Jogador 41", "team": "Time A", "season": 2023, "card": "Jogador 41 (Time A, 2023) - ST, 2303 min."}
+{"player_key": "jogador_42_2023", "player": "Jogador 42", "team": "Time B", "season": 2023, "card": "Jogador 42 (Time B, 2023) - W, 1128 min."}
+{"player_key": "jogador_43_2024", "player": "Jogador 43", "team": "Time C", "season": 2024, "card": "Jogador 43 (Time C, 2024) - GK, 1765 min."}
+{"player_key": "jogador_44_2024", "player": "Jogador 44", "team": "Time D", "season": 2024, "card": "Jogador 44 (Time D, 2024) - GK, 796 min."}
+{"player_key": "jogador_45_2024", "player": "Jogador 45", "team": "Time E", "season": 2024, "card": "Jogador 45 (Time E, 2024) - GK, 1098 min."}
+{"player_key": "jogador_46_2024", "player": "Jogador 46", "team": "Time F", "season": 2024, "card": "Jogador 46 (Time F, 2024) - FB, 2035 min."}
+{"player_key": "jogador_47_2024", "player": "Jogador 47", "team": "Time G", "season": 2024, "card": "Jogador 47 (Time G, 2024) - W, 795 min."}
+{"player_key": "jogador_48_2023", "player": "Jogador 48", "team": "Time H", "season": 2023, "card": "Jogador 48 (Time H, 2023) - GK, 475 min."}
+{"player_key": "jogador_49_2024", "player": "Jogador 49", "team": "Time I", "season": 2024, "card": "Jogador 49 (Time I, 2024) - DM, 664 min."}
+{"player_key": "jogador_50_2024", "player": "Jogador 50", "team": "Time J", "season": 2024, "card": "Jogador 50 (Time J, 2024) - CM_AM, 2219 min."}
+{"player_key": "jogador_51_2023", "player": "Jogador 51", "team": "Time A", "season": 2023, "card": "Jogador 51 (Time A, 2023) - GK, 1117 min."}
+{"player_key": "jogador_52_2024", "player": "Jogador 52", "team": "Time B", "season": 2024, "card": "Jogador 52 (Time B, 2024) - FB, 1250 min."}
+{"player_key": "jogador_53_2023", "player": "Jogador 53", "team": "Time C", "season": 2023, "card": "Jogador 53 (Time C, 2023) - ST, 1790 min."}
+{"player_key": "jogador_54_2024", "player": "Jogador 54", "team": "Time D", "season": 2024, "card": "Jogador 54 (Time D, 2024) - W, 543 min."}
+{"player_key": "jogador_55_2023", "player": "Jogador 55", "team": "Time E", "season": 2023, "card": "Jogador 55 (Time E, 2023) - FB, 1284 min."}
+{"player_key": "jogador_56_2024", "player": "Jogador 56", "team": "Time F", "season": 2024, "card": "Jogador 56 (Time F, 2024) - GK, 795 min."}
+{"player_key": "jogador_57_2024", "player": "Jogador 57", "team": "Time G", "season": 2024, "card": "Jogador 57 (Time G, 2024) - W, 1892 min."}
+{"player_key": "jogador_58_2023", "player": "Jogador 58", "team": "Time H", "season": 2023, "card": "Jogador 58 (Time H, 2023) - CM_AM, 1567 min."}
+{"player_key": "jogador_59_2023", "player": "Jogador 59", "team": "Time I", "season": 2023, "card": "Jogador 59 (Time I, 2023) - GK, 1462 min."}
+{"player_key": "jogador_60_2023", "player": "Jogador 60", "team": "Time J", "season": 2023, "card": "Jogador 60 (Time J, 2023) - FB, 1465 min."}
+{"player_key": "jogador_61_2023", "player": "Jogador 61", "team": "Time A", "season": 2023, "card": "Jogador 61 (Time A, 2023) - CB, 1609 min."}
+{"player_key": "jogador_62_2023", "player": "Jogador 62", "team": "Time B", "season": 2023, "card": "Jogador 62 (Time B, 2023) - DM, 1033 min."}
+{"player_key": "jogador_63_2023", "player": "Jogador 63", "team": "Time C", "season": 2023, "card": "Jogador 63 (Time C, 2023) - ST, 1556 min."}
+{"player_key": "jogador_64_2023", "player": "Jogador 64", "team": "Time D", "season": 2023, "card": "Jogador 64 (Time D, 2023) - FB, 1638 min."}
+{"player_key": "jogador_65_2023", "player": "Jogador 65", "team": "Time E", "season": 2023, "card": "Jogador 65 (Time E, 2023) - W, 1132 min."}
+{"player_key": "jogador_66_2024", "player": "Jogador 66", "team": "Time F", "season": 2024, "card": "Jogador 66 (Time F, 2024) - GK, 634 min."}
+{"player_key": "jogador_67_2024", "player": "Jogador 67", "team": "Time G", "season": 2024, "card": "Jogador 67 (Time G, 2024) - DM, 1150 min."}
+{"player_key": "jogador_68_2023", "player": "Jogador 68", "team": "Time H", "season": 2023, "card": "Jogador 68 (Time H, 2023) - GK, 1353 min."}
+{"player_key": "jogador_69_2024", "player": "Jogador 69", "team": "Time I", "season": 2024, "card": "Jogador 69 (Time I, 2024) - W, 1942 min."}
+{"player_key": "jogador_70_2024", "player": "Jogador 70", "team": "Time J", "season": 2024, "card": "Jogador 70 (Time J, 2024) - GK, 1597 min."}
+{"player_key": "jogador_71_2024", "player": "Jogador 71", "team": "Time A", "season": 2024, "card": "Jogador 71 (Time A, 2024) - CB, 2076 min."}
+{"player_key": "jogador_72_2024", "player": "Jogador 72", "team": "Time B", "season": 2024, "card": "Jogador 72 (Time B, 2024) - DM, 1591 min."}
+{"player_key": "jogador_73_2023", "player": "Jogador 73", "team": "Time C", "season": 2023, "card": "Jogador 73 (Time C, 2023) - DM, 1816 min."}
+{"player_key": "jogador_74_2024", "player": "Jogador 74", "team": "Time D", "season": 2024, "card": "Jogador 74 (Time D, 2024) - W, 1617 min."}
+{"player_key": "jogador_75_2023", "player": "Jogador 75", "team": "Time E", "season": 2023, "card": "Jogador 75 (Time E, 2023) - ST, 1940 min."}
+{"player_key": "jogador_76_2024", "player": "Jogador 76", "team": "Time F", "season": 2024, "card": "Jogador 76 (Time F, 2024) - CB, 2476 min."}
+{"player_key": "jogador_77_2024", "player": "Jogador 77", "team": "Time G", "season": 2024, "card": "Jogador 77 (Time G, 2024) - FB, 1845 min."}
+{"player_key": "jogador_78_2024", "player": "Jogador 78", "team": "Time H", "season": 2024, "card": "Jogador 78 (Time H, 2024) - GK, 1919 min."}
+{"player_key": "jogador_79_2023", "player": "Jogador 79", "team": "Time I", "season": 2023, "card": "Jogador 79 (Time I, 2023) - CM_AM, 1788 min."}
+{"player_key": "jogador_80_2024", "player": "Jogador 80", "team": "Time J", "season": 2024, "card": "Jogador 80 (Time J, 2024) - GK, 2256 min."}
+{"player_key": "jogador_81_2023", "player": "Jogador 81", "team": "Time A", "season": 2023, "card": "Jogador 81 (Time A, 2023) - GK, 1765 min."}
+{"player_key": "jogador_82_2024", "player": "Jogador 82", "team": "Time B", "season": 2024, "card": "Jogador 82 (Time B, 2024) - FB, 899 min."}
+{"player_key": "jogador_83_2023", "player": "Jogador 83", "team": "Time C", "season": 2023, "card": "Jogador 83 (Time C, 2023) - GK, 2080 min."}
+{"player_key": "jogador_84_2024", "player": "Jogador 84", "team": "Time D", "season": 2024, "card": "Jogador 84 (Time D, 2024) - CB, 910 min."}
+{"player_key": "jogador_85_2023", "player": "Jogador 85", "team": "Time E", "season": 2023, "card": "Jogador 85 (Time E, 2023) - CB, 616 min."}
+{"player_key": "jogador_86_2023", "player": "Jogador 86", "team": "Time F", "season": 2023, "card": "Jogador 86 (Time F, 2023) - DM, 1724 min."}
+{"player_key": "jogador_87_2024", "player": "Jogador 87", "team": "Time G", "season": 2024, "card": "Jogador 87 (Time G, 2024) - W, 1555 min."}
+{"player_key": "jogador_88_2023", "player": "Jogador 88", "team": "Time H", "season": 2023, "card": "Jogador 88 (Time H, 2023) - ST, 2227 min."}
+{"player_key": "jogador_89_2024", "player": "Jogador 89", "team": "Time I", "season": 2024, "card": "Jogador 89 (Time I, 2024) - CM_AM, 2210 min."}
+{"player_key": "jogador_90_2024", "player": "Jogador 90", "team": "Time J", "season": 2024, "card": "Jogador 90 (Time J, 2024) - GK, 1605 min."}
+{"player_key": "jogador_91_2024", "player": "Jogador 91", "team": "Time A", "season": 2024, "card": "Jogador 91 (Time A, 2024) - GK, 490 min."}
+{"player_key": "jogador_92_2024", "player": "Jogador 92", "team": "Time B", "season": 2024, "card": "Jogador 92 (Time B, 2024) - FB, 1113 min."}
+{"player_key": "jogador_93_2024", "player": "Jogador 93", "team": "Time C", "season": 2024, "card": "Jogador 93 (Time C, 2024) - W, 2281 min."}
+{"player_key": "jogador_94_2024", "player": "Jogador 94", "team": "Time D", "season": 2024, "card": "Jogador 94 (Time D, 2024) - CB, 438 min."}
+{"player_key": "jogador_95_2024", "player": "Jogador 95", "team": "Time E", "season": 2024, "card": "Jogador 95 (Time E, 2024) - CM_AM, 572 min."}
+{"player_key": "jogador_96_2024", "player": "Jogador 96", "team": "Time F", "season": 2024, "card": "Jogador 96 (Time F, 2024) - DM, 1052 min."}
+{"player_key": "jogador_97_2024", "player": "Jogador 97", "team": "Time G", "season": 2024, "card": "Jogador 97 (Time G, 2024) - CB, 1153 min."}
+{"player_key": "jogador_98_2024", "player": "Jogador 98", "team": "Time H", "season": 2024, "card": "Jogador 98 (Time H, 2024) - W, 1643 min."}
+{"player_key": "jogador_99_2024", "player": "Jogador 99", "team": "Time I", "season": 2024, "card": "Jogador 99 (Time I, 2024) - ST, 1481 min."}
+{"player_key": "jogador_100_2023", "player": "Jogador 100", "team": "Time J", "season": 2023, "card": "Jogador 100 (Time J, 2023) - DM, 2083 min."}
+{"player_key": "jogador_101_2023", "player": "Jogador 101", "team": "Time A", "season": 2023, "card": "Jogador 101 (Time A, 2023) - ST, 855 min."}
+{"player_key": "jogador_102_2024", "player": "Jogador 102", "team": "Time B", "season": 2024, "card": "Jogador 102 (Time B, 2024) - FB, 1228 min."}
+{"player_key": "jogador_103_2024", "player": "Jogador 103", "team": "Time C", "season": 2024, "card": "Jogador 103 (Time C, 2024) - FB, 1294 min."}
+{"player_key": "jogador_104_2024", "player": "Jogador 104", "team": "Time D", "season": 2024, "card": "Jogador 104 (Time D, 2024) - GK, 1784 min."}
+{"player_key": "jogador_105_2024", "player": "Jogador 105", "team": "Time E", "season": 2024, "card": "Jogador 105 (Time E, 2024) - ST, 2358 min."}
+{"player_key": "jogador_106_2024", "player": "Jogador 106", "team": "Time F", "season": 2024, "card": "Jogador 106 (Time F, 2024) - W, 2396 min."}
+{"player_key": "jogador_107_2024", "player": "Jogador 107", "team": "Time G", "season": 2024, "card": "Jogador 107 (Time G, 2024) - CM_AM, 589 min."}
+{"player_key": "jogador_108_2024", "player": "Jogador 108", "team": "Time H", "season": 2024, "card": "Jogador 108 (Time H, 2024) - DM, 904 min."}
+{"player_key": "jogador_109_2024", "player": "Jogador 109", "team": "Time I", "season": 2024, "card": "Jogador 109 (Time I, 2024) - CB, 1614 min."}
+{"player_key": "jogador_110_2023", "player": "Jogador 110", "team": "Time J", "season": 2023, "card": "Jogador 110 (Time J, 2023) - W, 1931 min."}
+{"player_key": "jogador_111_2024", "player": "Jogador 111", "team": "Time A", "season": 2024, "card": "Jogador 111 (Time A, 2024) - W, 1223 min."}
+{"player_key": "jogador_112_2023", "player": "Jogador 112", "team": "Time B", "season": 2023, "card": "Jogador 112 (Time B, 2023) - FB, 1328 min."}
+{"player_key": "jogador_113_2024", "player": "Jogador 113", "team": "Time C", "season": 2024, "card": "Jogador 113 (Time C, 2024) - ST, 1333 min."}
+{"player_key": "jogador_114_2024", "player": "Jogador 114", "team": "Time D", "season": 2024, "card": "Jogador 114 (Time D, 2024) - GK, 1540 min."}
+{"player_key": "jogador_115_2023", "player": "Jogador 115", "team": "Time E", "season": 2023, "card": "Jogador 115 (Time E, 2023) - GK, 533 min."}
+{"player_key": "jogador_116_2024", "player": "Jogador 116", "team": "Time F", "season": 2024, "card": "Jogador 116 (Time F, 2024) - DM, 1084 min."}
+{"player_key": "jogador_117_2023", "player": "Jogador 117", "team": "Time G", "season": 2023, "card": "Jogador 117 (Time G, 2023) - FB, 2252 min."}
+{"player_key": "jogador_118_2024", "player": "Jogador 118", "team": "Time H", "season": 2024, "card": "Jogador 118 (Time H, 2024) - W, 1214 min."}
+{"player_key": "jogador_119_2024", "player": "Jogador 119", "team": "Time I", "season": 2024, "card": "Jogador 119 (Time I, 2024) - CM_AM, 1572 min."}
+{"player_key": "jogador_120_2023", "player": "Jogador 120", "team": "Time J", "season": 2023, "card": "Jogador 120 (Time J, 2023) - FB, 479 min."}
+{"player_key": "jogador_121_2024", "player": "Jogador 121", "team": "Time A", "season": 2024, "card": "Jogador 121 (Time A, 2024) - DM, 602 min."}
+{"player_key": "jogador_122_2023", "player": "Jogador 122", "team": "Time B", "season": 2023, "card": "Jogador 122 (Time B, 2023) - DM, 1652 min."}
+{"player_key": "jogador_123_2024", "player": "Jogador 123", "team": "Time C", "season": 2024, "card": "Jogador 123 (Time C, 2024) - FB, 2099 min."}
+{"player_key": "jogador_124_2023", "player": "Jogador 124", "team": "Time D", "season": 2023, "card": "Jogador 124 (Time D, 2023) - DM, 1650 min."}
+{"player_key": "jogador_125_2023", "player": "Jogador 125", "team": "Time E", "season": 2023, "card": "Jogador 125 (Time E, 2023) - FB, 2082 min."}
+{"player_key": "jogador_126_2024", "player": "Jogador 126", "team": "Time F", "season": 2024, "card": "Jogador 126 (Time F, 2024) - CB, 1955 min."}
+{"player_key": "jogador_127_2024", "player": "Jogador 127", "team": "Time G", "season": 2024, "card": "Jogador 127 (Time G, 2024) - FB, 2494 min."}
+{"player_key": "jogador_128_2023", "player": "Jogador 128", "team": "Time H", "season": 2023, "card": "Jogador 128 (Time H, 2023) - ST, 1656 min."}
+{"player_key": "jogador_129_2024", "player": "Jogador 129", "team": "Time I", "season": 2024, "card": "Jogador 129 (Time I, 2024) - FB, 1949 min."}
+{"player_key": "jogador_130_2024", "player": "Jogador 130", "team": "Time J", "season": 2024, "card": "Jogador 130 (Time J, 2024) - DM, 1566 min."}
+{"player_key": "jogador_131_2024", "player": "Jogador 131", "team": "Time A", "season": 2024, "card": "Jogador 131 (Time A, 2024) - ST, 1796 min."}
+{"player_key": "jogador_132_2023", "player": "Jogador 132", "team": "Time B", "season": 2023, "card": "Jogador 132 (Time B, 2023) - DM, 870 min."}
+{"player_key": "jogador_133_2023", "player": "Jogador 133", "team": "Time C", "season": 2023, "card": "Jogador 133 (Time C, 2023) - GK, 1435 min."}
+{"player_key": "jogador_134_2023", "player": "Jogador 134", "team": "Time D", "season": 2023, "card": "Jogador 134 (Time D, 2023) - GK, 1753 min."}
+{"player_key": "jogador_135_2023", "player": "Jogador 135", "team": "Time E", "season": 2023, "card": "Jogador 135 (Time E, 2023) - ST, 1367 min."}
+{"player_key": "jogador_136_2023", "player": "Jogador 136", "team": "Time F", "season": 2023, "card": "Jogador 136 (Time F, 2023) - CB, 757 min."}
+{"player_key": "jogador_137_2023", "player": "Jogador 137", "team": "Time G", "season": 2023, "card": "Jogador 137 (Time G, 2023) - GK, 1067 min."}
+{"player_key": "jogador_138_2023", "player": "Jogador 138", "team": "Time H", "season": 2023, "card": "Jogador 138 (Time H, 2023) - FB, 772 min."}
+{"player_key": "jogador_139_2023", "player": "Jogador 139", "team": "Time I", "season": 2023, "card": "Jogador 139 (Time I, 2023) - DM, 1431 min."}
+{"player_key": "jogador_140_2023", "player": "Jogador 140", "team": "Time J", "season": 2023, "card": "Jogador 140 (Time J, 2023) - GK, 1545 min."}
+{"player_key": "jogador_141_2024", "player": "Jogador 141", "team": "Time A", "season": 2024, "card": "Jogador 141 (Time A, 2024) - GK, 1771 min."}
+{"player_key": "jogador_142_2023", "player": "Jogador 142", "team": "Time B", "season": 2023, "card": "Jogador 142 (Time B, 2023) - CB, 489 min."}
+{"player_key": "jogador_143_2024", "player": "Jogador 143", "team": "Time C", "season": 2024, "card": "Jogador 143 (Time C, 2024) - ST, 939 min."}
+{"player_key": "jogador_144_2024", "player": "Jogador 144", "team": "Time D", "season": 2024, "card": "Jogador 144 (Time D, 2024) - ST, 1268 min."}
+{"player_key": "jogador_145_2024", "player": "Jogador 145", "team": "Time E", "season": 2024, "card": "Jogador 145 (Time E, 2024) - W, 440 min."}
+{"player_key": "jogador_146_2023", "player": "Jogador 146", "team": "Time F", "season": 2023, "card": "Jogador 146 (Time F, 2023) - CB, 1139 min."}
+{"player_key": "jogador_147_2023", "player": "Jogador 147", "team": "Time G", "season": 2023, "card": "Jogador 147 (Time G, 2023) - FB, 2346 min."}
+{"player_key": "jogador_148_2023", "player": "Jogador 148", "team": "Time H", "season": 2023, "card": "Jogador 148 (Time H, 2023) - ST, 1624 min."}
+{"player_key": "jogador_149_2023", "player": "Jogador 149", "team": "Time I", "season": 2023, "card": "Jogador 149 (Time I, 2023) - DM, 1328 min."}
+{"player_key": "jogador_150_2024", "player": "Jogador 150", "team": "Time J", "season": 2024, "card": "Jogador 150 (Time J, 2024) - CB, 2436 min."}
+{"player_key": "jogador_151_2023", "player": "Jogador 151", "team": "Time A", "season": 2023, "card": "Jogador 151 (Time A, 2023) - GK, 1324 min."}
+{"player_key": "jogador_152_2023", "player": "Jogador 152", "team": "Time B", "season": 2023, "card": "Jogador 152 (Time B, 2023) - DM, 1981 min."}
+{"player_key": "jogador_153_2023", "player": "Jogador 153", "team": "Time C", "season": 2023, "card": "Jogador 153 (Time C, 2023) - DM, 789 min."}
+{"player_key": "jogador_154_2023", "player": "Jogador 154", "team": "Time D", "season": 2023, "card": "Jogador 154 (Time D, 2023) - GK, 2017 min."}
+{"player_key": "jogador_155_2023", "player": "Jogador 155", "team": "Time E", "season": 2023, "card": "Jogador 155 (Time E, 2023) - CB, 655 min."}
+{"player_key": "jogador_156_2024", "player": "Jogador 156", "team": "Time F", "season": 2024, "card": "Jogador 156 (Time F, 2024) - GK, 1108 min."}
+{"player_key": "jogador_157_2023", "player": "Jogador 157", "team": "Time G", "season": 2023, "card": "Jogador 157 (Time G, 2023) - W, 2238 min."}
+{"player_key": "jogador_158_2024", "player": "Jogador 158", "team": "Time H", "season": 2024, "card": "Jogador 158 (Time H, 2024) - DM, 2344 min."}
+{"player_key": "jogador_159_2023", "player": "Jogador 159", "team": "Time I", "season": 2023, "card": "Jogador 159 (Time I, 2023) - CM_AM, 409 min."}
+{"player_key": "jogador_160_2024", "player": "Jogador 160", "team": "Time J", "season": 2024, "card": "Jogador 160 (Time J, 2024) - CM_AM, 1197 min."}
+{"player_key": "jogador_161_2023", "player": "Jogador 161", "team": "Time A", "season": 2023, "card": "Jogador 161 (Time A, 2023) - FB, 1276 min."}
+{"player_key": "jogador_162_2023", "player": "Jogador 162", "team": "Time B", "season": 2023, "card": "Jogador 162 (Time B, 2023) - ST, 1428 min."}
+{"player_key": "jogador_163_2024", "player": "Jogador 163", "team": "Time C", "season": 2024, "card": "Jogador 163 (Time C, 2024) - GK, 1415 min."}
+{"player_key": "jogador_164_2024", "player": "Jogador 164", "team": "Time D", "season": 2024, "card": "Jogador 164 (Time D, 2024) - GK, 2224 min."}
+{"player_key": "jogador_165_2024", "player": "Jogador 165", "team": "Time E", "season": 2024, "card": "Jogador 165 (Time E, 2024) - FB, 773 min."}
+{"player_key": "jogador_166_2023", "player": "Jogador 166", "team": "Time F", "season": 2023, "card": "Jogador 166 (Time F, 2023) - FB, 623 min."}
+{"player_key": "jogador_167_2024", "player": "Jogador 167", "team": "Time G", "season": 2024, "card": "Jogador 167 (Time G, 2024) - FB, 1662 min."}
+{"player_key": "jogador_168_2023", "player": "Jogador 168", "team": "Time H", "season": 2023, "card": "Jogador 168 (Time H, 2023) - DM, 2202 min."}
+{"player_key": "jogador_169_2023", "player": "Jogador 169", "team": "Time I", "season": 2023, "card": "Jogador 169 (Time I, 2023) - W, 1252 min."}
+{"player_key": "jogador_170_2024", "player": "Jogador 170", "team": "Time J", "season": 2024, "card": "Jogador 170 (Time J, 2024) - GK, 462 min."}
+{"player_key": "jogador_171_2024", "player": "Jogador 171", "team": "Time A", "season": 2024, "card": "Jogador 171 (Time A, 2024) - DM, 1640 min."}
+{"player_key": "jogador_172_2023", "player": "Jogador 172", "team": "Time B", "season": 2023, "card": "Jogador 172 (Time B, 2023) - FB, 1088 min."}
+{"player_key": "jogador_173_2023", "player": "Jogador 173", "team": "Time C", "season": 2023, "card": "Jogador 173 (Time C, 2023) - GK, 1884 min."}
+{"player_key": "jogador_174_2024", "player": "Jogador 174", "team": "Time D", "season": 2024, "card": "Jogador 174 (Time D, 2024) - DM, 2033 min."}
+{"player_key": "jogador_175_2024", "player": "Jogador 175", "team": "Time E", "season": 2024, "card": "Jogador 175 (Time E, 2024) - W, 910 min."}
+{"player_key": "jogador_176_2024", "player": "Jogador 176", "team": "Time F", "season": 2024, "card": "Jogador 176 (Time F, 2024) - DM, 784 min."}
+{"player_key": "jogador_177_2023", "player": "Jogador 177", "team": "Time G", "season": 2023, "card": "Jogador 177 (Time G, 2023) - W, 804 min."}
+{"player_key": "jogador_178_2023", "player": "Jogador 178", "team": "Time H", "season": 2023, "card": "Jogador 178 (Time H, 2023) - FB, 917 min."}
+{"player_key": "jogador_179_2023", "player": "Jogador 179", "team": "Time I", "season": 2023, "card": "Jogador 179 (Time I, 2023) - W, 875 min."}
+{"player_key": "jogador_180_2023", "player": "Jogador 180", "team": "Time J", "season": 2023, "card": "Jogador 180 (Time J, 2023) - GK, 2400 min."}
+{"player_key": "jogador_181_2023", "player": "Jogador 181", "team": "Time A", "season": 2023, "card": "Jogador 181 (Time A, 2023) - FB, 2068 min."}
+{"player_key": "jogador_182_2023", "player": "Jogador 182", "team": "Time B", "season": 2023, "card": "Jogador 182 (Time B, 2023) - GK, 2293 min."}
+{"player_key": "jogador_183_2024", "player": "Jogador 183", "team": "Time C", "season": 2024, "card": "Jogador 183 (Time C, 2024) - CM_AM, 1860 min."}
+{"player_key": "jogador_184_2023", "player": "Jogador 184", "team": "Time D", "season": 2023, "card": "Jogador 184 (Time D, 2023) - CB, 1113 min."}
+{"player_key": "jogador_185_2023", "player": "Jogador 185", "team": "Time E", "season": 2023, "card": "Jogador 185 (Time E, 2023) - W, 482 min."}
+{"player_key": "jogador_186_2023", "player": "Jogador 186", "team": "Time F", "season": 2023, "card": "Jogador 186 (Time F, 2023) - CB, 1568 min."}
+{"player_key": "jogador_187_2024", "player": "Jogador 187", "team": "Time G", "season": 2024, "card": "Jogador 187 (Time G, 2024) - CB, 2301 min."}
+{"player_key": "jogador_188_2023", "player": "Jogador 188", "team": "Time H", "season": 2023, "card": "Jogador 188 (Time H, 2023) - W, 2448 min."}
+{"player_key": "jogador_189_2023", "player": "Jogador 189", "team": "Time I", "season": 2023, "card": "Jogador 189 (Time I, 2023) - FB, 450 min."}
+{"player_key": "jogador_190_2024", "player": "Jogador 190", "team": "Time J", "season": 2024, "card": "Jogador 190 (Time J, 2024) - CM_AM, 1084 min."}
+{"player_key": "jogador_191_2023", "player": "Jogador 191", "team": "Time A", "season": 2023, "card": "Jogador 191 (Time A, 2023) - GK, 1116 min."}
+{"player_key": "jogador_192_2023", "player": "Jogador 192", "team": "Time B", "season": 2023, "card": "Jogador 192 (Time B, 2023) - DM, 1869 min."}
+{"player_key": "jogador_193_2023", "player": "Jogador 193", "team": "Time C", "season": 2023, "card": "Jogador 193 (Time C, 2023) - GK, 848 min."}
+{"player_key": "jogador_194_2023", "player": "Jogador 194", "team": "Time D", "season": 2023, "card": "Jogador 194 (Time D, 2023) - DM, 1280 min."}
+{"player_key": "jogador_195_2023", "player": "Jogador 195", "team": "Time E", "season": 2023, "card": "Jogador 195 (Time E, 2023) - GK, 887 min."}
+{"player_key": "jogador_196_2024", "player": "Jogador 196", "team": "Time F", "season": 2024, "card": "Jogador 196 (Time F, 2024) - W, 2223 min."}
+{"player_key": "jogador_197_2024", "player": "Jogador 197", "team": "Time G", "season": 2024, "card": "Jogador 197 (Time G, 2024) - CM_AM, 2481 min."}
+{"player_key": "jogador_198_2024", "player": "Jogador 198", "team": "Time H", "season": 2024, "card": "Jogador 198 (Time H, 2024) - DM, 1974 min."}
+{"player_key": "jogador_199_2023", "player": "Jogador 199", "team": "Time I", "season": 2023, "card": "Jogador 199 (Time I, 2023) - ST, 649 min."}
+{"player_key": "jogador_200_2023", "player": "Jogador 200", "team": "Time J", "season": 2023, "card": "Jogador 200 (Time J, 2023) - FB, 1073 min."}

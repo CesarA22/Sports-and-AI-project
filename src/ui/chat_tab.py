@@ -10,9 +10,11 @@ from src.chat.postcheck import check_response
 
 
 OUT_OF_SCOPE_SUGGESTIONS = [
-    "Quem são os top 10 por prospect_score nesta posição?",
-    "Compare dois jogadores desta temporada.",
-    "Explique a metodologia do projeto.",
+    "Top 10 ST U-23 por prospect_score",
+    "Quem são os outliers positivos entre os pontas?",
+    "Compare Endrick vs Vitor Roque",
+    "Explique a metodologia do clustering",
+    "Quais jogadores são mais parecidos com X?",
 ]
 
 
@@ -31,11 +33,15 @@ def render_chat_tab(data, context: dict):
     pos = context.get("position_group", "CM_AM")
     season = context.get("season_list", [2024])
     sug = [
-        f"Top 10 por prospect_score em {pos} em {season}",
-        f"Quem são os outliers em {pos}?",
-        "Explique a metodologia do projeto.",
+        f"Top 10 {pos} U-23 por prospect_score",
+        f"Quem são os outliers positivos em {pos}?",
+        "Compare dois jogadores desta temporada",
+        "Explique a metodologia do clustering",
+        "Quais jogadores são mais parecidos com X?",
     ]
     st.markdown("### Chat (Grounded)")
+    if st.session_state.get("last_ai_insight", {}).get("text"):
+        st.caption("💡 O último insight de IA está no contexto. Você pode fazer perguntas sobre ele.")
     for s in sug:
         if st.button(s, key=f"sug_{hash(s) % 10**8}"):
             st.session_state.pending_query = s
@@ -49,8 +55,15 @@ def render_chat_tab(data, context: dict):
         with st.chat_message(msg["role"]):
             st.markdown(msg["content"])
             if msg.get("audit"):
-                with st.expander("Auditoria"):
-                    st.json(msg["audit"])
+                with st.expander("🔍 Auditoria"):
+                    audit = msg["audit"]
+                    with st.container(border=True):
+                        st.markdown("**Intent:** " + str(audit.get("intent", "—")))
+                        st.markdown("**Tools:** " + ", ".join(audit.get("tools_called", []) or ["—"]))
+                        st.markdown("**Evidence rows:** " + str(audit.get("evidence_rows", 0)))
+                        if audit.get("metrics_used"):
+                            st.markdown("**Métricas:** " + ", ".join(audit["metrics_used"]))
+                    st.json(audit)
 
     if user_input:
         # Policy gate
@@ -58,17 +71,21 @@ def render_chat_tab(data, context: dict):
         if not policy.allowed:
             st.session_state.messages.append({"role": "user", "content": user_input})
             st.session_state.messages.append({"role": "assistant", "content": _refuse_message(policy.reason), "audit": {"policy": "denied", "reason": policy.reason}})
+            st.session_state["_chat_just_processed"] = True
             st.rerun()
 
         text = policy.sanitized_input or user_input
         st.session_state.messages.append({"role": "user", "content": text})
 
-        # Planner
+        # Planner (inclui último insight da IA como contexto)
+        ai_ctx = st.session_state.get("last_ai_insight", {})
         ctx = {
             "season": context.get("season_list", [2024])[0] if context.get("season_list") else 2024,
             "position_group": context.get("position_group", "CM_AM"),
             "minutes_min": context.get("minutes_min", 600),
             "age_max": context.get("age_max", 23),
+            "ai_insight": ai_ctx.get("text", ""),
+            "ai_insight_title": ai_ctx.get("title", ""),
         }
         plan = run_planner(text, ctx)
 
@@ -84,6 +101,7 @@ def render_chat_tab(data, context: dict):
             audit["tools_called"] = []
             audit["evidence_rows"] = 0
             st.session_state.messages.append({"role": "assistant", "content": reply, "audit": audit})
+            st.session_state["_chat_just_processed"] = True
             st.rerun()
 
         # Execute tools
@@ -101,17 +119,14 @@ def render_chat_tab(data, context: dict):
         audit["evidence_rows"] = rows
         audit["metrics_used"] = plan.get("metrics", [])
 
-        # Answer writer
-        reply = run_writer(text, plan, evidence)
+        # Answer writer (com contexto do insight)
+        ai_insight = st.session_state.get("last_ai_insight", {}).get("text", "")
+        reply = run_writer(text, plan, evidence, ai_insight)
 
         # Post-check
         ok, err = check_response(reply)
         if not ok:
-            reply = run_writer(
-                text,
-                plan,
-                evidence,
-            )
+            reply = run_writer(text, plan, evidence, ai_insight)
             reply = reply + "\n\n*[Pós-checagem: inclua Fontes (dataset).]*"
             # Segundo retry com instrução extra - na prática o writer já deve incluir
             ok2, _ = check_response(reply)
@@ -119,4 +134,5 @@ def render_chat_tab(data, context: dict):
                 reply = "Não tenho dados no escopo do projeto para afirmar isso.\n\n**Fontes (dataset):** Nenhuma evidência suficiente."
 
         st.session_state.messages.append({"role": "assistant", "content": reply, "audit": audit})
+        st.session_state["_chat_just_processed"] = True  # evita modal do Explorer reabrir no próximo rerun
         st.rerun()

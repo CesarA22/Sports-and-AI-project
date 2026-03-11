@@ -14,6 +14,7 @@ from config import (
     UMAP_CLUSTERS_PARQUET,
     OUTLIERS_PARQUET,
     PLAYER_CARDS_JSONL,
+    PLAYER_IMAGES_PARQUET,
 )
 
 logger = logging.getLogger(__name__)
@@ -29,12 +30,14 @@ class AppData:
         umap_clusters: pd.DataFrame,
         outliers: pd.DataFrame,
         player_cards: dict[str, str],
+        player_images: pd.DataFrame = None,
     ):
         self.master = master
         self.features = features
         self.umap_clusters = umap_clusters
         self.outliers = outliers
         self.player_cards = player_cards
+        self.player_images = player_images if player_images is not None else pd.DataFrame()
 
     @property
     def is_empty(self) -> bool:
@@ -82,6 +85,7 @@ def load_data() -> AppData:
     umap_clusters = _read_parquet(UMAP_CLUSTERS_PARQUET)
     outliers = _read_parquet(OUTLIERS_PARQUET)
     player_cards = _load_player_cards(PLAYER_CARDS_JSONL)
+    player_images = _read_parquet(PLAYER_IMAGES_PARQUET)
 
     return AppData(
         master=master,
@@ -89,6 +93,7 @@ def load_data() -> AppData:
         umap_clusters=umap_clusters,
         outliers=outliers,
         player_cards=player_cards,
+        player_images=player_images,
     )
 
 
@@ -119,18 +124,38 @@ def get_merged_df(data: AppData) -> pd.DataFrame:
         )
         df = df[[c for c in df.columns if not c.endswith("_feat")]]
 
-    # Merge umap_clusters
+    # Merge umap_clusters (garantir tipos compatíveis)
     if not data.umap_clusters.empty:
-        uc = data.umap_clusters
-        uc_cols = ["umap_x", "umap_y", "cluster_id", "cluster_prob", "is_noise"]
-        uc_cols = [c for c in uc_cols if c in uc.columns]
-        merge_cols = [c for c in join_cols if c in uc.columns]
+        uc = data.umap_clusters.copy()
+        merge_cols = [c for c in join_cols if c in uc.columns and c in df.columns]
+        uc_cols = [c for c in ["umap_x", "umap_y", "cluster_id", "cluster_prob", "is_noise"] if c in uc.columns]
         if merge_cols and uc_cols:
+            for c in merge_cols:
+                if df[c].dtype != uc[c].dtype:
+                    uc[c] = uc[c].astype(df[c].dtype)
             df = df.merge(
                 uc[merge_cols + uc_cols].drop_duplicates(merge_cols),
                 on=merge_cols,
                 how="left",
             )
+
+    # Fallback: se não há umap ou valores NaN, criar coords
+    import numpy as np
+    need_umap = "umap_x" not in df.columns or "umap_y" not in df.columns
+    if not need_umap and ("umap_x" in df.columns and "umap_y" in df.columns):
+        need_umap = df["umap_x"].isna().all() or df["umap_y"].isna().all()
+    if need_umap:
+        n = len(df)
+        feat_cols = [c for c in df.columns if "per90" in c or "z_" in c][:2]
+        if feat_cols:
+            df["umap_x"] = df[feat_cols[0]].fillna(0).values
+            df["umap_y"] = df[feat_cols[1]].fillna(0).values if len(feat_cols) > 1 else np.zeros(n)
+        else:
+            np.random.seed(42)
+            df["umap_x"] = np.random.randn(n) * 2
+            df["umap_y"] = np.random.randn(n) * 2
+        if "cluster_id" not in df.columns or df["cluster_id"].isna().all():
+            df["cluster_id"] = np.random.randint(0, 5, n)
 
     # Merge outliers
     if not data.outliers.empty:
